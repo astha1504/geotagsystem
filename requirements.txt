@@ -1,0 +1,5 @@
+streamlit
+geopy
+Pillow
+folium
+streamlit-folium
